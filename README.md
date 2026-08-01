@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amir Mahdi Hassani</h1>
-<h3 align="center">Full-Stack Developer | Building Web & Mobile Applications</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ooam-iroo&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -9,13 +9,16 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate **Full-Stack Developer** who loves turning ideas into clean, scalable, and user-friendly applications.  
-I work across the stack — from backend APIs to modern frontend and mobile apps.
+I'm a Full-Stack Developer with around **2.5 – 3 years** of hands-on experience building web and mobile applications.  
+I enjoy working on both the backend and frontend, and I like turning ideas into clean and practical products.
 
-- 🔭 Currently working on improving my full-stack projects
-- 🌱 Learning more about system design, clean architecture & advanced React/Next.js
-- 💬 Ask me about **Laravel, Spring Boot, React, Flutter, Python**
-- ⚡ Fun fact: I enjoy building practical tools that solve real problems
+Over the past few years I’ve worked with different technologies and tried to improve my skills step by step.  
+I’m still learning every day and always looking for better ways to write clean and maintainable code.
+
+- 🔭 Currently focused on building better full-stack projects
+- 🌱 Learning more about system design and clean architecture
+- 💬 Feel free to ask me about Laravel, Spring Boot, React, Flutter or Python
+- ⚡ I enjoy creating tools that actually help people
 
 ---
 
@@ -79,5 +82,5 @@ I work across the stack — from backend APIs to modern frontend and mobile apps
 ---
 
 <p align="center">
-  ⭐ From <a href="https://github.com/ooam-iroo">ooam-iroo</a>
+  Thanks for visiting 🙌
 </p>
